@@ -1,7 +1,7 @@
 ## 一、组件版本(自行更改)
 | **组件名称** | **组件版本** | **备注** |
 | --- | --- | --- |
-| Hadoop | 3.2.2 | hadoop-3.2.2 |a
+| Hadoop | 3.2.2 | hadoop-3.2.2 |
 | Spark | 3.1.3 | spark-3.1.3-bin-hadoop3.2 |
 | Hive | 3.1.2 | apache-hive-3.1.2-bin |
 | Flink | 1.15.1 | pyFlink |

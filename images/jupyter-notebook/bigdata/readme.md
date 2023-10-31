@@ -6,7 +6,7 @@
 | Hive | 3.1.2 | apache-hive-3.1.2-bin |
 | Flink | 1.15.1 | pyFlink |
 | Python | 3.8.12 | notebook:jupyter-ubuntu-cpu-base 自带版本 |
-
+这是一点修改
 ## 二、基于Dockerfile实现
 
 #### 2.1 修改Hadoop/hive配置文件
